@@ -17,11 +17,11 @@
       <h4>Open the rails consol with rails consol command and check if datas have been created by using the following command:</h4>
         <code>$ rails c</code>
       <h4>Use Table Print Gem with "tp"<h4>
-        <code>tp Doctor.all</code>
-        <code>tp Patient.all</code>
-        <code>tp Appointment.all</code>
-        <code>tp City.all</code>
-        <code>tp Specialty.all</code>
+        <code>tp Doctor.all</code><br>
+        <code>tp Patient.all</code><br>
+        <code>tp Appointment.all</code><br>
+        <code>tp City.all</code><br>
+        <code>tp Specialty.all</code><br>
         <code>tp DealWithIt.all</code>
       </div>
       <div>
