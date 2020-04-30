@@ -25,7 +25,7 @@
         <code>tp DealWithIt.all</code>
       </div>
       <div>
-        <h2>Database structure: has_many_through</h3>
+        <h2>Database structure</h3>
         <p>6 tables:</p>
         <ul>
           <li>doctor</li>
