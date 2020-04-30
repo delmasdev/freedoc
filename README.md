@@ -16,7 +16,7 @@
         <code>$ rails db:seed</code>
       <h4>Open the rails consol with rails consol command and check if datas have been created by using the following command:</h4>
         <code>$ rails c</code>
-      <h4>Use Table Print Gem with "tp"<h4>
+      <h4>Use Table Print Gem with "tp"</h4>
         <code>tp Doctor.all</code><br>
         <code>tp Patient.all</code><br>
         <code>tp Appointment.all</code><br>
@@ -25,7 +25,7 @@
         <code>tp DealWithIt.all</code>
       </div>
       <div>
-        <h2>Database structure</h3>
+        <h2>Database structure</h2>
         <p>6 tables:</p>
         <ul>
           <li>doctor</li>
